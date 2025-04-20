@@ -1,4 +1,4 @@
-# GenAI_UX_Research_Enabler
+# GenAI UX Research enabler
 
 This project initiates the development of a multi-agent AI system designed to automate UX research workflows. 
 
