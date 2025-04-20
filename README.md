@@ -22,10 +22,11 @@ By demonstrating four core Gen AI capabilities, it showcases the potential to pr
 
 These capabilities are demonstrated through the task of extracting insights from user interview notes to inform the design of rural coliving services. This forms a foundational step toward a broader, more advanced UX multi-agent system.
 
+
 To support this, I have developed a first version of the **"Data Analysis & Synthesis Agent"**, focused on gathering the following key UX insights from in-depth interview raw notes:
 
 * hidden_personality_traits  
 * main_motivations  
 * main_fears  
 * main_stoppers  
-* persona_type initiates the development of a multi-agent AI system designed to automate UX research workflows. It demonstrates how generative AI can extract and structure user insights from interview data, laying the groundwork for specialized agents to handle tasks such as persona creation and journey mapping. By demonstrating four core Gen AI capabilities, it showcases the potential to provide more depth and valuable nuances to UX teams extracting and synthesizing user insights. 
+* persona_type
